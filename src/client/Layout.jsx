@@ -11,7 +11,7 @@ export const Layout = ({ children }) => {
       <header className="bg-primary-800 text-white p-4">
         <div className="container mx-auto px-4 py-2 flex justify-between">
           <Link to="/">
-            <h1 className="text-xl2 font-semibold">ECommerce</h1>
+            <h1 className="text-xl2 font-semibold">E-Commerce</h1>
           </Link>
           { user ? (
             <span>

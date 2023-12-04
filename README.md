@@ -29,6 +29,7 @@ This is a full-stack E-commerce project built with ReactJS for the frontend and 
    git clone https://github.com/your-username/E-commerce-wasp.git
    cd E-commerce-wasp
    ```
+   
 2.  Install frontend & backend dependencies:
 
    ```bash
